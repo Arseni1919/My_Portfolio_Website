@@ -1,4 +1,4 @@
-# Here The Representation of The Main Projects of My Repo
+# The Main Projects of My Repo
 
 ## [Project 1: A Star Simulator For Pathfinding](https://github.com/Arseni1919/A_star_simulator) 
 ---
