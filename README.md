@@ -15,5 +15,6 @@ Bla Bla
 ![](/images/matrix_results.png)
 
 ## Project 3
+---
 
 ![](/images/2462300.png)
