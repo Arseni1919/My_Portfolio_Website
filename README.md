@@ -16,5 +16,7 @@ Bla Bla
 
 ## Project 3
 ---
+
 Bla Bla
+
 ![](/images/2462300.png)
