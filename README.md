@@ -1,5 +1,9 @@
 # The Main Projects of My Repo
 
+## The instructions
+
+Go to here: [Medium TDS](https://towardsdatascience.com/9-minutes-to-a-data-science-portfolio-website-80b79ced6c54)
+
 ## [Project 1: A Star Simulator For Pathfinding](https://github.com/Arseni1919/A_star_simulator) 
 ---
 * one 
@@ -12,16 +16,10 @@
 ---
 Bla Bla
 
-![](/images/matrix_results.png)
-
 ## Project 3
 ---
 
 Bla Bla
-
----
-
-![](/images/2462300.png) ![](/images/2462300.png)
 
 ---
 
@@ -36,6 +34,13 @@ Bla Bla
 | ------------- | ------------- |
 | ![](/images/2462300.png) | ![](/images/2462300.png) |
 | Content Cell  | Content Cell  |
+
+
+![](/images/matrix_results.png)
+
+![](/images/2462300.png) ![](/images/2462300.png)
+
+---
 
 ---
 
