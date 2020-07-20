@@ -20,3 +20,5 @@ Bla Bla
 Bla Bla
 
 ![](/images/2462300.png)
+
+<img src="/images/2462300.png" width="500">
