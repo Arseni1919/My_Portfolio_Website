@@ -21,4 +21,5 @@ Bla Bla
 
 ![](/images/2462300.png)
 
-<img src="/images/2462300.png" width="500">
+<img src="/images/2462300.png" width="200">
+<img src="/images/2462300.png" width="200">
