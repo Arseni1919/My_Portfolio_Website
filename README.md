@@ -23,7 +23,7 @@ Bla Bla
 
 ---
 
-| First Header  | Second Header |
+| First Header BLaaaaaa  | Second Header Bluuuuuuu|
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
